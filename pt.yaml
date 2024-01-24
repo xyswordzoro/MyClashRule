@@ -1,8 +1,8 @@
 payload:
+  - DOMAIN-SUFFIX,piggo.me
   - PROCESS-NAME,transmission-qt.exe
   - PROCESS-NAME,qbittorrent.exe
   - DOMAIN-SUFFIX,b23.tv
   - DOMAIN-SUFFIX,gitee.com
-  - DOMAIN-SUFFIX,piggo.me
   - DOMAIN-SUFFIX,github.com
   

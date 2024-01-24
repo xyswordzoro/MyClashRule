@@ -1,13 +1,9 @@
 payload:
-  # 来源: https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Providers/BanAD.yaml'
-  
-  # 广告联盟-国内
-  - '+.09mk.cn'
-  - '+.100peng.com'
-  - '+.114la.com'
-  - '+.123juzi.net'
-  - '+.138lm.com'
-  - '+.17un.com'
-  - '+.2cnt.net'
-  - '+.3gmimo.com'
-  - '+.3xx.vip'
+  - 'piggo.me'
+  - '2mdn-cn.net'
+  - '2mdn.net'
+  - 'a1.mzstatic.com'
+  - 'a2.mzstatic.com'
+  - 'a3.mzstatic.com'
+  - 'a4.mzstatic.com'
+  - 'a5.mzstatic.com'

@@ -2,5 +2,4 @@ payload:
   - DOMAIN-SUFFIX,piggo.me
   - DOMAIN-SUFFIX,shaniaoyun.com
   - DOMAIN-SUFFIX,m-team.cc
-  - DOMAIN-SUFFIX,swordzoro.fun
 
